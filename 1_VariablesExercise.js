@@ -36,9 +36,9 @@ let dreamDestination = "Hawaii";
 // Exercise 6. Write a comment below explaining the difference between the rules
 // for num1 and num2 from Exercise 5. What numbers would be valid values for
 // num2 but not num1?
-//
 
-// num1 must be strictly between 1 and 10, but num 2 can be 1 or 10 too.
+
+/* num1 must be strictly between 1 and 10, but num 2 can be 1 or 10 too.*/
 
 // Exercise 7. Now we will try some addition.
 // a. Assign the values of 4 and 6 to num1 and num2, respectively.
